@@ -2,7 +2,7 @@
 
 What does the second 'nil' argument in the line 6 text_field_tag of teachers/new.html.erb represent?
 ** it makes it so the placeholder does not actually get input into the text box, it is grayed out and disappears when
-** clicked on
+clicked on
 
 Go to `localhost:3000/teachers` in your browser; why does this not work?
 ** in routes.rb we only have a post request defined for localhost/teachers, not a get request
